@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "274848941788",
+    "project_id": "udemy-mansour",
+    "storage_bucket": "udemy-mansour.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:274848941788:android:ef6f6d34a98e5a2e8f9619",
+        "android_client_info": {
+          "package_name": "com.example.ex2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "274848941788-nu49njla5kvt8cl0idiv0c2ktap64muo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ex2",
+            "certificate_hash": "8e66854de14c3a3c5cb36ae638548d3f449a24e8"
+          }
+        },
+        {
+          "client_id": "274848941788-clhh8k18om9koovuldj58379idprjn76.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDo10xcj2li6Y1Y7XtPcaCD_ivBVmYCg6E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "274848941788-clhh8k18om9koovuldj58379idprjn76.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
